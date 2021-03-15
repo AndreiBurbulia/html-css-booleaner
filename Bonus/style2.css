@@ -1,0 +1,89 @@
+#site_header{
+    height: 180px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+}
+
+
+#logo_png{
+    height: 40px;
+    margin-top: 120px;
+    
+}
+
+
+#site_main{
+    width: 80%;
+    margin-left: 10%;
+    text-align: left;
+    font-weight: 500;
+
+}
+h1 {
+    font-size: 50px;
+    margin-bottom: 0%;
+}
+
+.text_detail {
+    margin-top: 0%;
+    color: grey;
+    font-size: 20px;
+}
+
+#writter{
+    color: #5abfeb;
+}
+
+#photo_description{
+    margin-top: 0%;
+}
+
+.important_text{
+    background-color: yellow;
+}
+
+#elenco_punti{
+    padding-left: 1%;
+
+}
+table {
+    /* border: 0px solid #CCC; */
+    border-collapse: collapse;
+}
+.table_titol_25{
+    width: 25%;
+    background-color:#20a9e5;
+    color: white;
+
+}
+
+.table_titol_50 {
+    width: 50%;
+    background-color:#20a9e5;
+    color: white;
+
+}
+
+.blue_line{
+    background-color: #b1e5f2;
+}
+
+#foto_1{
+    background-image: url(../img/monitor.jpg);
+   
+}
+
+#foto_2{
+    background-image: url(../img/graph.jpg);
+}
+
+.photo_size{
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    padding-top: 1%;
+    padding-left: 1%;
+
+}
