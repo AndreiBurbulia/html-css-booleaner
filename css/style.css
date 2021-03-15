@@ -1,0 +1,14 @@
+#site_header{
+    background-color: blue;
+}
+
+#pattern_logo {
+    background-image: url(../img/pattern.png);
+    height: 200px;
+    background-repeat: repeat;
+}
+
+#logo_dimension {
+    width: 25%;
+    background-position-x: bottom;
+}
