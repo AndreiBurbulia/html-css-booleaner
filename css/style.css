@@ -1,10 +1,11 @@
 #site_header{
-    background-color: blue;
+    background-color: #4ea0ff;
+    height: 100px;
 }
 
 #pattern_logo {
     background-image: url(../img/pattern.png);
-    height: 200px;
+    height: 100px;
     background-repeat: repeat;
     text-align: center;
 }
@@ -29,7 +30,7 @@ h1 {
 }
 
 #writter{
-    color: blue;
+    color: #5abfeb;
 }
 
 #photo_description{
@@ -50,16 +51,38 @@ table {
 }
 .table_titol_25{
     width: 25%;
-    background-color: rgb(23, 96, 212);
+    background-color:#20a9e5;
+    color: white;
 
 }
 
 .table_titol_50 {
     width: 50%;
-    background-color: rgb(23, 96, 212);
+    background-color:#20a9e5;
+    color: white;
 
 }
 
 .blue_line{
-    background-color: cornflowerblue;
+    background-color: #b1e5f2;
+}
+
+#foto_1{
+    background-image: url(../img/monitor.jpg);
+   
+}
+
+#foto_2{
+    background-image: url(../img/graph.jpg);
+}
+
+.photo_size{
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    padding-top: 1%;
+    padding-left: 1%;
+
 }
