@@ -14,6 +14,7 @@
 }
 
 #site_main{
+    text-align: left;
 
 }
 h1 {
@@ -33,4 +34,13 @@ h1 {
 
 #photo_description{
     margin-top: 0%;
+}
+
+.important_text{
+    background-color: yellow;
+}
+
+#elenco_punti{
+    padding-left: 1%;
+
 }
