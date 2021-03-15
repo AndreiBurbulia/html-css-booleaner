@@ -44,3 +44,22 @@ h1 {
     padding-left: 1%;
 
 }
+table {
+    /* border: 0px solid #CCC; */
+    border-collapse: collapse;
+}
+.table_titol_25{
+    width: 25%;
+    background-color: rgb(23, 96, 212);
+
+}
+
+.table_titol_50 {
+    width: 50%;
+    background-color: rgb(23, 96, 212);
+
+}
+
+.blue_line{
+    background-color: cornflowerblue;
+}
